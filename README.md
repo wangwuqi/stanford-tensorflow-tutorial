@@ -5,3 +5,5 @@ Code Examples  https://github.com/chiphuyen/stanford-tensorflow-tutorials
 <img src='picture/linreg_placeholder/annimation.gif'>
 ## Lecture1&2-Overview-of-tensorflow-and-it's-operation
 [overview and basic operations](http://nbviewer.jupyter.org/github/wangwuqi/stanford-tensorflow-tutorial/blob/master/Lecture1%262-Overview-of-tensorflow-and-it%27s-operation.ipynb)
+## Lecture3-Basic-Models-in-Tensorflow
+[simple linear regression](http://nbviewer.jupyter.org/github/wangwuqi/stanford-tensorflow-tutorial/blob/master/Lecture3-Basic-Models-in-Tensorflow.ipynb)
